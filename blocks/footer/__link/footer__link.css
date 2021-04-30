@@ -7,8 +7,8 @@
     line-height: 18px;
     color: #FFFFFF;
     margin-right: 18px;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (max-width: 767px){
     .footer__link{

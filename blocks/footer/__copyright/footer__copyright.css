@@ -6,8 +6,8 @@
     font-size: 14px;
     line-height: 16px;
     color: #FFFFFF;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (max-width: 767px){
     .footer__copyright{

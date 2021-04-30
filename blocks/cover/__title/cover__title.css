@@ -9,8 +9,8 @@
     color: #FFFFFF;
     margin: 0 0 32px 0;
     z-index: 2;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (max-width: 767px){
     .cover__title{

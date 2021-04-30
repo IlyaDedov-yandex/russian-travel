@@ -8,7 +8,7 @@
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px){
     .footer{
-        max-width: 928px;               
+        max-width: 928px;
     }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
@@ -18,7 +18,7 @@
 }
 @media screen and (max-width: 767px){
     .footer{
-        align-items: flex-start;        
+        align-items: flex-start;
         max-width: 320px;
         flex-direction: column;
         padding-left: 16px;

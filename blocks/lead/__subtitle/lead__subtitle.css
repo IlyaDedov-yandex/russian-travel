@@ -9,8 +9,8 @@
     margin: auto;
     margin-bottom: 64px;
     color: #FFFFFF;
-    -webkit-font-smoothing: antialiased; 
-    -moz-osx-font-smoothing: grayscale; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 @media screen and (min-width: 1024px) and (max-width: 1279px){
     .lead__subtitle{
