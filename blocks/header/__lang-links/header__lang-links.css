@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(2,30px);
+    grid-template-columns: repeat(2,minmax(min-content, max-content));
     align-self: flex-end;
     justify-content: start;
     align-content: center;

@@ -7,4 +7,12 @@
     font-size: 24px;
     line-height: 28px;
     align-self: start;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
+}
+@media screen and (max-width: 767px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }

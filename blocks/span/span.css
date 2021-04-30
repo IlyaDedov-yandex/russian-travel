@@ -1,13 +1,10 @@
-.place__website-caption{
-    margin: 0;
+.span{
+    color: #ffffff;
     font-family: "Inter", Arial, sans-serif;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 12px;
-    line-height: 12px;
-    letter-spacing: 0.2em;
-    color: #AAAAAA;
-    padding-bottom: 12px;
+    line-height: 18px;
     -webkit-font-smoothing: antialiased; 
     -moz-osx-font-smoothing: grayscale; 
 }

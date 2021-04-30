@@ -16,9 +16,16 @@
         grid-template-columns: 340px 1fr;
         column-gap: 28px;
     }
+    .place:nth-child(5) {
+        margin-bottom: -25px;
+    }
 }
 @media screen and (max-width: 767px){
     .place{
         grid-template-columns: 320px;
+        row-gap: 32px;
+    }
+    .place:nth-child(5) {
+        margin-bottom: -25px;
     }
 }

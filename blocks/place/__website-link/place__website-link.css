@@ -6,4 +6,6 @@
     line-height: 22px;
     text-decoration-line: underline;
     color: #FFFFFF;
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale; 
 }
