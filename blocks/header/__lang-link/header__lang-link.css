@@ -10,6 +10,10 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.header__lang-link:hover{
+    opacity: .8;
+    transition: opacity 1s ease-out;
+}
 @media screen and (max-width: 767px) {
     .header__lang-link {
         font-size: 18px;

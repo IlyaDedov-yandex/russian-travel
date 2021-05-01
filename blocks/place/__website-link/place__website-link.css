@@ -9,3 +9,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+.place__website-link:hover{
+    opacity: .8;
+    transition: opacity 1s ease-out;
+}

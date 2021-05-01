@@ -1,8 +1,10 @@
 .places{
+    list-style: none;
     max-width: 984px;
     display: grid;
     grid-template-rows: repeat(5, max-content);
     row-gap: 80px;
+    padding:0;
     padding-bottom: 92px;
     margin: 0 auto;
 }
